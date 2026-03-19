@@ -61,18 +61,19 @@ let leon = Leon {
 // connect
 
 <p align="center">
-  <a href="leonislamofficial123@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  <a href="mailto:leonislamofficial123@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/mdleonislam/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
-  <a href="https://discord.com/leonislam1161/">
-    <img src="https://skillicons.dev/icons?i=discord" height="40"/>
+  <a href="https://tryhackme.com/p/yourusername">
+    <img src="https://assets.tryhackme.com/img/favicon.png" height="35"/>
   </a>
-  <a href="https://tryhackme.com/p/0xLuffy">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/yourusername.png" height="40"/>
-  </a>
+</p>
+
+<p align="center">
+  discord: leonislam1161
 </p>
 
 
