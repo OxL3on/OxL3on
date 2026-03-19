@@ -37,15 +37,19 @@ Tools:            [Burp, Nmap, Wireshark, Ghidra, ffuf, MetaSploit]
 
 
 
+<br>
+<br>
 
-### TryHackMe
 
-<div align="center">
-  
-<img src="https://tryhackme.com/api/badges/0xLuffy" alt="TryHackMe Stats" width="300"/>
-
-```yaml
-Username:   0xLuffy
-Profile:    https://tryhackme.com/p/0xLuffy
-
+<p align="center">
+  <a href="mailto:leonislamofficial123@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mdleonislam/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+  </a>
+  <a href="https://tryhackme.com/p/0xLuffy">
+    <img src="https://assets.tryhackme.com/img/favicon.png" height="35"/>
+  </a>
+</p>
 
