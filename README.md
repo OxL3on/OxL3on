@@ -36,20 +36,16 @@ Tools:            [Burp, Nmap, Wireshark, Ghidra, ffuf, MetaSploit]
 ```
 
 
-## 📈 CURRENT STATS
+
+
+### TryHackMe
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonislm&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&icon_color=00FF00&title_color=00FF00)](https://github.com/leonislm)
+<img src="https://tryhackme.com/api/badges/0xLuffy" alt="TryHackMe Stats" width="300"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonislm&theme=dark&background=0d1117&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)](https://github.com/leonislm)
-
-</div>
-
-### TryHackMe
-<div align="center">
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/0xLuffy.png)](https://tryhackme.com/p/0xLuffy)
-
-</div>
+```yaml
+Username:   0xLuffy
+Profile:    https://tryhackme.com/p/0xLuffy
 
 
