@@ -22,36 +22,57 @@
 </picture>
 
 
-<div align="center">
+## > config.rs
 
-<table>
-<tr>
-<td>
+```rust id="rs03"
+struct Leon {
+    role: &'static str,
+    focus: [&'static str; 3],
+    stack: [&'static str; 4],
+    tools: [&'static str; 5],
+}
 
-<pre>
-<span style="color:#DC143C">┌──(leon㉿OxL3on)-[~]</span>
-<span style="color:#DC143C">└─$</span> <span style="color:white">whoami</span>
-<span style="color:white">OxL3on</span>
+let leon = Leon {
+    role: "Offensive Security",
 
-<span style="color:#DC143C">┌──(leon㉿OxL3on)-[~]</span>
-<span style="color:#DC143C">└─$</span> <span style="color:white">cat about.txt</span>
-<span style="color:white">Offensive security enthusiast</span>
-<span style="color:white">CTF player (web / reverse engineering)</span>
-<span style="color:white">Python & Rust</span>
+    focus: [
+        "Web",
+        "Reverse Engineering",
+        "CTF"
+    ],
 
-<span style="color:#DC143C">┌──(leon㉿OxL3on)-[~]</span>
-<span style="color:#DC143C">└─$</span> <span style="color:white">ls tools/</span>
-<span style="color:white">burpsuite  nmap  wireshark  ghidra  linux</span>
+    stack: [
+        "Python",
+        "Rust",
+        "Linux",
+        "Networking"
+    ],
 
-<span style="color:#DC143C">┌──(leon㉿OxL3on)-[~]</span>
-<span style="color:#DC143C">└─$</span> <span style="color:white">connect --me</span>
-<span style="color:white">GitHub  : https://github.com/OxL3on</span>
-<span style="color:white">Discord : your_tag</span>
+    tools: [
+        "burp",
+        "nmap",
+        "wireshark",
+        "ghidra",
+        "ffuf"
+    ],
+};
+```
 
-</pre>
+// connect
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="leonislamofficial123@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mdleonislam/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://discord.com/leonislam1161/">
+    <img src="https://skillicons.dev/icons?i=discord" height="40"/>
+  </a>
+  <a href="https://tryhackme.com/p/0xLuffy">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/yourusername.png" height="40"/>
+  </a>
+</p>
 
-</div>
+
