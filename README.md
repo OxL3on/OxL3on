@@ -53,15 +53,15 @@ let leon = Leon {
         "nmap",
         "wireshark",
         "ghidra",
-        "ffuf"
+        "ffuf",
+        "MetaSploit"
     ],
 };
 ```
 
-// connect
 
 <p align="center">
-  <a href="leonislamofficial123@gmail.com">
+  <a href="mailto:leonislamofficial123@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/mdleonislam/">
