@@ -61,7 +61,7 @@ let leon = Leon {
 // connect
 
 <p align="center">
-  <a href="mailto:leonislamofficial123@gmail.com">
+  <a href="leonislamofficial123@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
   </a>
   <a href="https://www.linkedin.com/in/mdleonislam/">
@@ -72,8 +72,5 @@ let leon = Leon {
   </a>
 </p>
 
-<p align="center">
-  discord: leonislam1161
-</p>
 
 
