@@ -12,6 +12,3 @@
     src="https://raw.githubusercontent.com/OxL3on/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
-
