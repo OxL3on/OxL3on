@@ -20,3 +20,38 @@
     src="https://raw.githubusercontent.com/OxL3on/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<pre>
+<span style="color:#DC143C">┌──(leon㉿OxL3on)-[~]</span>
+<span style="color:#DC143C">└─$</span> <span style="color:white">whoami</span>
+<span style="color:white">OxL3on</span>
+
+<span style="color:#DC143C">┌──(leon㉿OxL3on)-[~]</span>
+<span style="color:#DC143C">└─$</span> <span style="color:white">cat about.txt</span>
+<span style="color:white">Offensive security enthusiast</span>
+<span style="color:white">CTF player (web / reverse engineering)</span>
+<span style="color:white">Python & Rust</span>
+
+<span style="color:#DC143C">┌──(leon㉿OxL3on)-[~]</span>
+<span style="color:#DC143C">└─$</span> <span style="color:white">ls tools/</span>
+<span style="color:white">burpsuite  nmap  wireshark  ghidra  linux</span>
+
+<span style="color:#DC143C">┌──(leon㉿OxL3on)-[~]</span>
+<span style="color:#DC143C">└─$</span> <span style="color:white">connect --me</span>
+<span style="color:white">GitHub  : https://github.com/OxL3on</span>
+<span style="color:white">Discord : your_tag</span>
+
+</pre>
+
+</td>
+</tr>
+</table>
+
+</div>
