@@ -6,26 +6,13 @@
 
 ## 👋 About Me
 
-<div align="center">
-<table style="border:none;">
-<tr>
-<td width="60%" valign="top" style="border:none;">
+<img align="right" src="https://c.tenor.com/YhA5nO9jiCkAAAAC/tenor.gif" width="250" style="margin-left: 20px;" />
 
 Hello, I’m Leon - an offensive security enthusiast focused on web exploitation and reverse engineering. I spend most of my time breaking things to understand how they work, then pretending I knew it all along.
 
 I actively practice through CTF challenges and bug bounty programs, even though I don’t always enjoy CTFs… yet somehow I keep coming back. My workflow mainly revolves around Python, and I’m currently working on Rust (fighting the borrow checker daily).
 
 Outside of security, I’m into anime and manga - especially One Piece. Still chasing the One Piece… and maybe root access along the way.
-
-</td>
-<td width="160%" align="center" style="border:none;">
-
-<img src="https://c.tenor.com/YhA5nO9jiCkAAAAC/tenor.gif" width="250"/>
-
-</td>
-</tr>
-</table>
-</div>
 
 
 
