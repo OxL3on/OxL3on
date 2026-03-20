@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/69e56bd6-0f7f-4f2a-b19f-0f2842b19d52" /><div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/OxL3on/OxL3on/main/Leon.png" width="450"/><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=100&color=DC143C&center=true&vCenter=true&width=700&lines=Offensive+Security+Enthusiast;CTF+Player+(Web+/Rev);Python+%26+Rust"/>
 </div>
