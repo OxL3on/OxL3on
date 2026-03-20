@@ -47,7 +47,7 @@ Tools:            [Burp, Nmap, Wireshark, Ghidra, ffuf, MetaSploit]
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="center">
+<p align="left">
   <a href="mailto:leonislamofficial123@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
   </a>
