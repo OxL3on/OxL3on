@@ -7,9 +7,10 @@
 # 👋 About Me
 
 <div align="center">
-<table style="border:none;">
-<tr>
-<td width="60%" valign="top" style="border:none;">
+  <img src="https://c.tenor.com/8b2-2a17wIAAAAAC/tenor.gif" width="280"/>
+</div>
+
+<br>
 
 > Hello, I’m Leon - an offensive security enthusiast focused on web exploitation and reverse engineering. I spend most of my time breaking things to understand how they work, then pretending I knew it all along.
 >
@@ -18,16 +19,6 @@
 > Outside of security, I’m into anime and manga - especially One Piece. Still chasing the One Piece… and maybe root access along the way.
 >
 > On GitHub, I mostly upload CTF writeups, lab walkthroughs, random notes, and whatever I’m currently learning. It’s basically a collection of things I’ve broken, figured out, or struggled with - organized just enough so future me can understand what past me was doing.
-
-</td>
-<td width="40%" align="center" style="border:none;">
-
-<img src="https://c.tenor.com/8b2-2a17wIAAAAAC/tenor.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-</div>
 
 
 
