@@ -20,7 +20,7 @@
 </td>
 <td width="40%" align="center" style="border:none;">
 
-<img src="https://c.tenor.com/YhA5nO9jiCkAAAAC/tenor.gif" width="100%"/>
+<img src="https://c.tenor.com/IZ-mR0j8aJEAAAAd/tenor.gif" width="100%"/>
 
 </td>
 </tr>
@@ -118,6 +118,6 @@ ANIME              [████████████████████
 
 
 <div align="center">
-  <img src="https://c.tenor.com/IZ-mR0j8aJEAAAAd/tenor.gif" width="100%"/>
+  <img src="https://c.tenor.com/YhA5nO9jiCkAAAAC/tenor.gif" width="100%"/>
 </div>
 
