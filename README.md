@@ -89,4 +89,6 @@ Linux              [████████████████████
 </table>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OxL3on)](https://github.com/OxL3on/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OxL3on&theme=darkhub&no-frame=true&title=Stars,Followers,Commit,Repositories" />
+</p>
