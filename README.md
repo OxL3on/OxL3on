@@ -58,20 +58,23 @@ ANIME              [████████████████████
 
 <h1 align="left">Connect with me:</h1>
 
-<div align="left" style="display:flex; gap:20px; align-items:center;">
+<p align="left">
   <a href="mailto:leonislamofficial123@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/mdleonislam/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://tryhackme.com/p/0xLuffy">
     <img src="https://assets.tryhackme.com/img/favicon.png" height="35"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://codeforces.com/profile/Nika___">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="35"/>
+    <img src="https://sta.codeforces.com/s/0/favicon-32x32.png" height="35"/>
   </a>
-</div>
+</p>
 
 <br>
 
