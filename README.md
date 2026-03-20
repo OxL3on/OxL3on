@@ -11,11 +11,11 @@
 <tr>
 <td width="60%" valign="top" style="border:none;">
 
-Hello, I’m Leon - an offensive security enthusiast focused on web exploitation and reverse engineering. I spend most of my time breaking things to understand how they work, then pretending I knew it all along.
-
-I actively practice through CTF challenges and bug bounty programs, even though I don’t always enjoy CTFs… yet somehow I keep coming back. My workflow mainly revolves around Python, and I’m currently working on Rust (fighting the borrow checker daily).
-
-Outside of security, I’m into anime and manga - especially One Piece. Still chasing the One Piece… and maybe root access along the way.
+> Hello, I’m Leon - an offensive security enthusiast focused on web exploitation and reverse engineering. I spend most of my time breaking things to understand how they work, then pretending I knew it all along.
+>
+> I actively practice through CTF challenges and bug bounty programs, even though I don’t always enjoy CTFs… yet somehow I keep coming back. My workflow mainly revolves around Python, and I’m currently working on Rust (fighting the borrow checker daily).
+>
+> Outside of security, I’m into anime and manga - especially One Piece. Still chasing the One Piece… and maybe root access along the way.
 
 </td>
 <td width="40%" align="center" style="border:none;">
