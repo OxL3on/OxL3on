@@ -3,14 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=100&color=DC143C&center=true&vCenter=true&width=700&lines=Offensive+Security+Enthusiast;CTF+Player+(Web+/Rev);Python+%26+Rust;Bug+Bounty+Hunter;WEEB;"/>
 </div>
 
-
 # 👋 About Me
-
-<div align="center">
-  <img src="https://c.tenor.com/8b2-2a17wIAAAAAC/tenor.gif" width="280"/>
-</div>
-
-<br>
 
 > Hello, I’m Leon - an offensive security enthusiast focused on web exploitation and reverse engineering. I spend most of my time breaking things to understand how they work, then pretending I knew it all along.
 >
@@ -19,6 +12,13 @@
 > Outside of security, I’m into anime and manga - especially One Piece. Still chasing the One Piece… and maybe root access along the way.
 >
 > On GitHub, I mostly upload CTF writeups, lab walkthroughs, random notes, and whatever I’m currently learning. It’s basically a collection of things I’ve broken, figured out, or struggled with - organized just enough so future me can understand what past me was doing.
+
+<br>
+
+<div align="center">
+  <img src="https://c.tenor.com/IZ-mR0j8aJEAAAAd/tenor.gif" width="100%"/>
+</div>
+
 
 
 
