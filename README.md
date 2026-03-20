@@ -117,6 +117,7 @@ ANIME              [████████████████████
 </table>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OxL3on&theme=darkhub&no-frame=true&title=Stars,Followers,Commit,Repositories" />
-</p>
+<div align="center">
+  <img src="https://c.tenor.com/IZ-mR0j8aJEAAAAd/tenor.gif" width="100%"/>
+</div>
+
