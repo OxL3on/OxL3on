@@ -26,7 +26,7 @@
 
 
 ```bash id="term01"
-> skills
+## 🔥 > skills
 
 Web Security       [███████████████████████████████████████████░░░░░░░░░░░░]
 Reverse Eng        [█████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░]
@@ -58,18 +58,20 @@ ANIME              [████████████████████
 
 <h1 align="left">Connect with me:</h1>
 
-<p align="left">
-  <a href="mailto:leonislamofficial123@gmail.com" style="margin:20px;">
+<div align="left" style="display:flex; gap:20px; align-items:center;">
+  <a href="mailto:leonislamofficial123@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
   </a>
-  <a href="https://www.linkedin.com/in/mdleonislam/" style="margin:20px;">
+  <a href="https://www.linkedin.com/in/mdleonislam/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
-  <a href="https://tryhackme.com/p/0xLuffy" style="margin:20px;">
+  <a href="https://tryhackme.com/p/0xLuffy">
     <img src="https://assets.tryhackme.com/img/favicon.png" height="35"/>
   </a>
-</p>
-</p>
+  <a href="https://codeforces.com/profile/Nika___">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="35"/>
+  </a>
+</div>
 
 <br>
 
