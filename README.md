@@ -2,14 +2,27 @@
   <img src="https://raw.githubusercontent.com/OxL3on/OxL3on/main/Leon.png" width="450"/><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=100&color=DC143C&center=true&vCenter=true&width=700&lines=Offensive+Security+Enthusiast;CTF+Player+(Web+/Rev);Python+%26+Rust;Bug+Bounty+Hunter;WEEB;"/>
 </div>
+## 👋 About Me
 
-## About Me
+<table>
+<tr>
+<td width="60%" valign="top">
 
 Hello, I’m Leon - an offensive security enthusiast focused on web exploitation and reverse engineering. I spend most of my time breaking things to understand how they work, then pretending I knew it all along.
 
 I actively practice through CTF challenges and bug bounty programs, even though I don’t always enjoy CTFs… yet somehow I keep coming back. My workflow mainly revolves around Python, and I’m currently working on Rust (fighting the borrow checker daily).
 
 Outside of security, I’m into anime and manga - especially One Piece. Still chasing the One Piece… and maybe root access along the way.
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://c.tenor.com/YhA5nO9jiCkAAAAC/tenor.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
 
 
 
