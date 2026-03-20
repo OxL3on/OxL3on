@@ -18,7 +18,7 @@ I actively practice through CTF challenges and bug bounty programs, even though 
 Outside of security, I’m into anime and manga - especially One Piece. Still chasing the One Piece… and maybe root access along the way.
 
 </td>
-<td width="40%" align="center" style="border:none;">
+<td width="60%" align="center" style="border:none;">
 
 <img src="https://c.tenor.com/YhA5nO9jiCkAAAAC/tenor.gif" width="250"/>
 
