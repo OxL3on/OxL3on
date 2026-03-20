@@ -86,4 +86,4 @@ Linux              [████████████████████
 </table>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxl3on" alt="oxl3on" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oxl3on&show_icons=true&locale=en" alt="oxl3on" /></p>
