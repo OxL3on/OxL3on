@@ -4,7 +4,7 @@
 </div>
 
 
-## 👋 About Me
+# 👋 About Me
 
 <div align="center">
 <table style="border:none;">
@@ -104,7 +104,7 @@ ANIME              [████████████████████
 
 <br>
 
-<table align="left">
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oxl3on&show_icons=true&locale=en&layout=compact" height="150"/>
