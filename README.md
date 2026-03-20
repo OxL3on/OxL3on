@@ -25,14 +25,20 @@
 
 
 
-```yaml
-Web Security:     [Web, APIs, Auth, Sessions]
-Reverse Eng:      [x86/x64, Debugging, Static Analysis]
-Network Security: [TCP/IP, Traffic Analysis, Enumeration]
-CTF Categories:   [Web, Rev, Pwn]
-Scripting:        [Python, Bash]
-Systems:          [Linux, Rust]
-Tools:            [Burp, Nmap, Wireshark, Ghidra, ffuf, MetaSploit]
+```bash id="7v1m1d"
+> skills
+
+Web Security       [████████████████████████████░░░░░░░░░░░░] 
+Reverse Eng        [██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 
+Network Security   [████████████████████░░░░░░░░░░░░░░░░░░░░] 
+CTF:
+  Web              [████████████████████████████░░░░░░░░░░░░] 
+  Rev              [████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 
+  Pwn              [████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 
+Python             [██████████████████████████████░░░░░░░░░░]
+Rust               [████████████████░░░░░░░░░░░░░░░░░░░░░░░░] 
+Bash               [████████████████████░░░░░░░░░░░░░░░░░░░░] 
+Linux              [██████████████████████████████░░░░░░░░░░] 
 ```
 
 
