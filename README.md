@@ -59,19 +59,39 @@ ANIME              [████████████████████
 <h1 align="left">Connect with me:</h1>
 
 <p align="left">
-  <a href="mailto:leonislamofficial123@gmail.com" style="margin:12px;">
+  <a href="mailto:leonislamofficial123@gmail.com" style="margin:20px;">
     <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
   </a>
-  <a href="https://www.linkedin.com/in/mdleonislam/" style="margin:12px;">
+  <a href="https://www.linkedin.com/in/mdleonislam/" style="margin:20px;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
-  <a href="https://tryhackme.com/p/0xLuffy" style="margin:12px;">
+  <a href="https://tryhackme.com/p/0xLuffy" style="margin:20px;">
     <img src="https://assets.tryhackme.com/img/favicon.png" height="35"/>
   </a>
 </p>
 </p>
 
 <br>
+
+
+
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/OxL3on/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/OxL3on/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/OxL3on/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
 
 
@@ -92,19 +112,4 @@ ANIME              [████████████████████
 </table>
 
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/OxL3on/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/OxL3on/snk/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/OxL3on/snk/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
+
