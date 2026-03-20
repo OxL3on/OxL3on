@@ -89,3 +89,4 @@ Linux              [████████████████████
 </table>
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=OxL3on)](https://github.com/OxL3on/github-profile-trophy)
