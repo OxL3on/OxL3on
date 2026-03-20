@@ -38,14 +38,9 @@ CTF
 Python             [█████████████████████████████████████████████░░░░░░░░░░]
 Rust               [███████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░]
 Bash               [███████████████████████████████████░░░░░░░░░░░░░░░░░░░░]
-Linux              [██████████████████████████████████████████████░░░░░░░░░░]
+Linux              [██████████████████████████████████████████████░░░░░░░░░]
 ```
 
-
-
-
-
-<br>
 <br>
 
 
@@ -61,13 +56,13 @@ Linux              [████████████████████
 <h1 align="left">Connect with me:</h1>
 
 <p align="left">
-  <a href="mailto:leonislamofficial123@gmail.com">
+  <a href="mailto:leonislamofficial123@gmail.com" style="margin:12px;">
     <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
   </a>
-  <a href="https://www.linkedin.com/in/mdleonislam/">
+  <a href="https://www.linkedin.com/in/mdleonislam/" style="margin:12px;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
-  <a href="https://tryhackme.com/p/0xLuffy">
+  <a href="https://tryhackme.com/p/0xLuffy" style="margin:12px;">
     <img src="https://assets.tryhackme.com/img/favicon.png" height="35"/>
   </a>
 </p>
@@ -89,3 +84,6 @@ Linux              [████████████████████
     </td>
   </tr>
 </table>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxl3on" alt="oxl3on" /></a> </p>
