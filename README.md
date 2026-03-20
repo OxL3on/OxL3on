@@ -16,6 +16,8 @@
 > I actively practice through CTF challenges and bug bounty programs, even though I don’t always enjoy CTFs… yet somehow I keep coming back. My workflow mainly revolves around Python, and I’m currently working on Rust (fighting the borrow checker daily).
 >
 > Outside of security, I’m into anime and manga - especially One Piece. Still chasing the One Piece… and maybe root access along the way.
+>
+> On GitHub, I mostly upload CTF writeups, lab walkthroughs, random notes, and whatever I’m currently learning. It’s basically a collection of things I’ve broken, figured out, or struggled with - organized just enough so future me can understand what past me was doing.
 
 </td>
 <td width="40%" align="center" style="border:none;">
