@@ -4,10 +4,10 @@
 </div>
 
 
-
 ## 👋 About Me
 
-<table>
+<div align="center">
+<table style="border:none;">
 <tr>
 <td width="60%" valign="top" style="border:none;">
 
@@ -25,6 +25,8 @@ Outside of security, I’m into anime and manga - especially One Piece. Still ch
 </td>
 </tr>
 </table>
+</div>
+
 
 
 
