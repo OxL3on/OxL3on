@@ -82,8 +82,10 @@ Linux              [████████████████████
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxl3on&" height="150"/>
     </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=oxl3on&show_icons=true&locale=en" alt="oxl3on" height="150"/>
+    </td>
   </tr>
 </table>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oxl3on&show_icons=true&locale=en" alt="oxl3on" /></p>
