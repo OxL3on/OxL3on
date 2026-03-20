@@ -120,6 +120,6 @@ ANIME              [████████████████████
 
 
 <div align="center">
-  <img src="https://c.tenor.com/YhA5nO9jiCkAAAAC/tenor.gif" width="100%"/>
+  <img src="https://c.tenor.com/7BOxSppphPEAAAAd/tenor.gif" width="100%"/>
 </div>
 
