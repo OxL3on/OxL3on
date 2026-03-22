@@ -118,4 +118,12 @@ MANGA              [████████████████████
 </table>
 
 
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=OxL3on&theme=tokyonight&column=5&margin-w=10&no-bg=true&no-frame=true" width="85%" />
+</div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OxL3on&theme=night-owl&bg_color=0a192f&color=BDD4E7&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
