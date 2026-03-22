@@ -130,5 +130,5 @@ MANGA              [████████████████████
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prodip2005&color=0a192f&style=flat-square&label=RADAR+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=OxL3on&color=0a192f&style=flat-square&label=RADAR+VIEWS" />
 </p>
