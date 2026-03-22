@@ -128,6 +128,7 @@ MANGA              [████████████████████
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OxL3on&theme=night-owl&bg_color=0a192f&color=BDD4E7&line=00d4ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OxL3on&color=0a192f&style=flat-square&label=RADAR+VIEWS" />
