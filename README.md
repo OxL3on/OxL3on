@@ -1,8 +1,9 @@
 <img width="100%" src="readme_animated.svg" alt="ME" />
 
-<p><img width="28%" align="right" alt="Github Header" src="https://openclipart.org/download/231263/cherry-blossom-spinner.svg"/></p>
-
-<img width="20%" src="Icon.svg"  align="centre" alt="ME" />
-
-<p><img width="28%" align="left" alt="Github Header" src="https://openclipart.org/download/231263/cherry-blossom-spinner.svg"/></p>
-
+<table width="100%">
+<tr>
+<td width="28%"><img width="100%" src="https://openclipart.org/download/231263/cherry-blossom-spinner.svg" alt="flower"/></td>
+<td width="44%" align="center"><img width="100%" src="redteam_typing_toolkit.svg" alt="toolkit"/></td>
+<td width="28%"><img width="100%" src="https://openclipart.org/download/231263/cherry-blossom-spinner.svg" alt="flower"/></td>
+</tr>
+</table>
